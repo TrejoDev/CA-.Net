@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Qmu2REAm9WEeEkFCGxqbdS7v4w6o5A5vlWegF6nAlrQ=",
+  "Source": "FrameworksDrivers-API",
+  "BasePath": "_content/FrameworksDrivers-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

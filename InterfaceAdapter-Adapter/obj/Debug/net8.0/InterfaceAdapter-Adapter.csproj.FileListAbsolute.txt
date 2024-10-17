@@ -1,0 +1,17 @@
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Adapter/bin/Debug/net8.0/InterfaceAdapter-Adapter.deps.json
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Adapter/bin/Debug/net8.0/InterfaceAdapter-Adapter.dll
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Adapter/bin/Debug/net8.0/InterfaceAdapter-Adapter.pdb
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Adapter/bin/Debug/net8.0/AplicationLayer.dll
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Adapter/bin/Debug/net8.0/EnterpriseLayer.dll
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Adapter/bin/Debug/net8.0/EnterpriseLayer.pdb
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Adapter/bin/Debug/net8.0/AplicationLayer.pdb
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Adapter/obj/Debug/net8.0/InterfaceAdapter-Adapter.csproj.AssemblyReference.cache
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Adapter/obj/Debug/net8.0/InterfaceAdapter-Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Adapter/obj/Debug/net8.0/InterfaceAdapter-Adapter.AssemblyInfoInputs.cache
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Adapter/obj/Debug/net8.0/InterfaceAdapter-Adapter.AssemblyInfo.cs
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Adapter/obj/Debug/net8.0/InterfaceAdapter-Adapter.csproj.CoreCompileInputs.cache
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Adapter/obj/Debug/net8.0/Interfac.A6823DED.Up2Date
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Adapter/obj/Debug/net8.0/InterfaceAdapter-Adapter.dll
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Adapter/obj/Debug/net8.0/refint/InterfaceAdapter-Adapter.dll
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Adapter/obj/Debug/net8.0/InterfaceAdapter-Adapter.pdb
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Adapter/obj/Debug/net8.0/ref/InterfaceAdapter-Adapter.dll

@@ -1,0 +1,15 @@
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/AplicationLayer/bin/Debug/net8.0/AplicationLayer.deps.json
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/AplicationLayer/bin/Debug/net8.0/AplicationLayer.dll
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/AplicationLayer/bin/Debug/net8.0/AplicationLayer.pdb
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/AplicationLayer/bin/Debug/net8.0/EnterpriseLayer.dll
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/AplicationLayer/bin/Debug/net8.0/EnterpriseLayer.pdb
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/AplicationLayer/obj/Debug/net8.0/AplicationLayer.csproj.AssemblyReference.cache
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/AplicationLayer/obj/Debug/net8.0/AplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/AplicationLayer/obj/Debug/net8.0/AplicationLayer.AssemblyInfoInputs.cache
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/AplicationLayer/obj/Debug/net8.0/AplicationLayer.AssemblyInfo.cs
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/AplicationLayer/obj/Debug/net8.0/AplicationLayer.csproj.CoreCompileInputs.cache
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/AplicationLayer/obj/Debug/net8.0/Aplicati.678D5912.Up2Date
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/AplicationLayer/obj/Debug/net8.0/AplicationLayer.dll
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/AplicationLayer/obj/Debug/net8.0/refint/AplicationLayer.dll
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/AplicationLayer/obj/Debug/net8.0/AplicationLayer.pdb
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/AplicationLayer/obj/Debug/net8.0/ref/AplicationLayer.dll

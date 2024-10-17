@@ -1,0 +1,17 @@
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Mapper/bin/Debug/net8.0/InterfaceAdapter-Mapper.deps.json
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Mapper/bin/Debug/net8.0/InterfaceAdapter-Mapper.dll
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Mapper/bin/Debug/net8.0/InterfaceAdapter-Mapper.pdb
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Mapper/bin/Debug/net8.0/AplicationLayer.dll
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Mapper/bin/Debug/net8.0/EnterpriseLayer.dll
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Mapper/bin/Debug/net8.0/EnterpriseLayer.pdb
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Mapper/bin/Debug/net8.0/AplicationLayer.pdb
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Mapper/obj/Debug/net8.0/InterfaceAdapter-Mapper.csproj.AssemblyReference.cache
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Mapper/obj/Debug/net8.0/InterfaceAdapter-Mapper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Mapper/obj/Debug/net8.0/InterfaceAdapter-Mapper.AssemblyInfoInputs.cache
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Mapper/obj/Debug/net8.0/InterfaceAdapter-Mapper.AssemblyInfo.cs
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Mapper/obj/Debug/net8.0/InterfaceAdapter-Mapper.csproj.CoreCompileInputs.cache
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Mapper/obj/Debug/net8.0/Interfac.64BF235D.Up2Date
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Mapper/obj/Debug/net8.0/InterfaceAdapter-Mapper.dll
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Mapper/obj/Debug/net8.0/refint/InterfaceAdapter-Mapper.dll
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Mapper/obj/Debug/net8.0/InterfaceAdapter-Mapper.pdb
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Mapper/obj/Debug/net8.0/ref/InterfaceAdapter-Mapper.dll

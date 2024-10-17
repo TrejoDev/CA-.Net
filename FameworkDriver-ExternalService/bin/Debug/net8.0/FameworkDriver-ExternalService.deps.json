@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FameworkDriver-ExternalService/1.0.0": {
+        "dependencies": {
+          "AplicationLayer": "1.0.0",
+          "EnterpriseLayer": "1.0.0",
+          "InterfaceAdapter-Adapter": "1.0.0"
+        },
+        "runtime": {
+          "FameworkDriver-ExternalService.dll": {}
+        }
+      },
+      "AplicationLayer/1.0.0": {
+        "dependencies": {
+          "EnterpriseLayer": "1.0.0"
+        },
+        "runtime": {
+          "AplicationLayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "EnterpriseLayer/1.0.0": {
+        "runtime": {
+          "EnterpriseLayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "InterfaceAdapter-Adapter/1.0.0": {
+        "dependencies": {
+          "AplicationLayer": "1.0.0",
+          "EnterpriseLayer": "1.0.0"
+        },
+        "runtime": {
+          "InterfaceAdapter-Adapter.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FameworkDriver-ExternalService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AplicationLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EnterpriseLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InterfaceAdapter-Adapter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

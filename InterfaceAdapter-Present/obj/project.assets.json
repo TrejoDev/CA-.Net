@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "AplicationLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "EnterpriseLayer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AplicationLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AplicationLayer.dll": {}
+        }
+      },
+      "EnterpriseLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/EnterpriseLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EnterpriseLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AplicationLayer/1.0.0": {
+      "type": "project",
+      "path": "../AplicationLayer/AplicationLayer.csproj",
+      "msbuildProject": "../AplicationLayer/AplicationLayer.csproj"
+    },
+    "EnterpriseLayer/1.0.0": {
+      "type": "project",
+      "path": "../EnterpriseLayer/EnterpriseLayer.csproj",
+      "msbuildProject": "../EnterpriseLayer/EnterpriseLayer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "AplicationLayer >= 1.0.0",
+      "EnterpriseLayer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/trejodev/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Present/InterfaceAdapter-Present.csproj",
+      "projectName": "InterfaceAdapter-Present",
+      "projectPath": "/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Present/InterfaceAdapter-Present.csproj",
+      "packagesPath": "/Users/trejodev/.nuget/packages/",
+      "outputPath": "/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Present/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/trejodev/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/AplicationLayer/AplicationLayer.csproj": {
+              "projectPath": "/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/AplicationLayer/AplicationLayer.csproj"
+            },
+            "/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/EnterpriseLayer/EnterpriseLayer.csproj": {
+              "projectPath": "/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/EnterpriseLayer/EnterpriseLayer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

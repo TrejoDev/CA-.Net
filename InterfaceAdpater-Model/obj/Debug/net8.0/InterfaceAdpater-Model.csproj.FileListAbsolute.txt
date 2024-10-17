@@ -1,0 +1,11 @@
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdpater-Model/bin/Debug/net8.0/InterfaceAdpater-Model.deps.json
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdpater-Model/bin/Debug/net8.0/InterfaceAdpater-Model.dll
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdpater-Model/bin/Debug/net8.0/InterfaceAdpater-Model.pdb
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdpater-Model/obj/Debug/net8.0/InterfaceAdpater-Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdpater-Model/obj/Debug/net8.0/InterfaceAdpater-Model.AssemblyInfoInputs.cache
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdpater-Model/obj/Debug/net8.0/InterfaceAdpater-Model.AssemblyInfo.cs
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdpater-Model/obj/Debug/net8.0/InterfaceAdpater-Model.csproj.CoreCompileInputs.cache
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdpater-Model/obj/Debug/net8.0/InterfaceAdpater-Model.dll
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdpater-Model/obj/Debug/net8.0/refint/InterfaceAdpater-Model.dll
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdpater-Model/obj/Debug/net8.0/InterfaceAdpater-Model.pdb
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdpater-Model/obj/Debug/net8.0/ref/InterfaceAdpater-Model.dll
