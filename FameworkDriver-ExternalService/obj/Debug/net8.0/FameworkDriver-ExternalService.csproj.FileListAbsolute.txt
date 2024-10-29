@@ -17,3 +17,4 @@
 /Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/FameworkDriver-ExternalService/obj/Debug/net8.0/refint/FameworkDriver-ExternalService.dll
 /Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/FameworkDriver-ExternalService/obj/Debug/net8.0/FameworkDriver-ExternalService.pdb
 /Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/FameworkDriver-ExternalService/obj/Debug/net8.0/ref/FameworkDriver-ExternalService.dll
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/FameworkDriver-ExternalService/obj/Debug/net8.0/FameworkDriver-ExternalService.sourcelink.json

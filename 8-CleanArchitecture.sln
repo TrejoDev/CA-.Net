@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAdapter-Adapter", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FameworkDriver-ExternalService", "FameworkDriver-ExternalService\FameworkDriver-ExternalService.csproj", "{ED94F5B8-9855-4AB4-8026-E9682463B7E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworkDrivers-Console", "FrameworkDrivers-Console\FrameworkDrivers-Console.csproj", "{9086DC0D-FB0C-4730-BFC5-A737DB41779D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{ED94F5B8-9855-4AB4-8026-E9682463B7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED94F5B8-9855-4AB4-8026-E9682463B7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED94F5B8-9855-4AB4-8026-E9682463B7E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9086DC0D-FB0C-4730-BFC5-A737DB41779D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9086DC0D-FB0C-4730-BFC5-A737DB41779D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9086DC0D-FB0C-4730-BFC5-A737DB41779D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9086DC0D-FB0C-4730-BFC5-A737DB41779D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

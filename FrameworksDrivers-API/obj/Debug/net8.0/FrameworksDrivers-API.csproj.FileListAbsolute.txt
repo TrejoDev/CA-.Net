@@ -90,3 +90,4 @@
 /Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/FrameworksDrivers-API/obj/Debug/net8.0/FrameworksDrivers-API.pdb
 /Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/FrameworksDrivers-API/obj/Debug/net8.0/FrameworksDrivers-API.genruntimeconfig.cache
 /Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/FrameworksDrivers-API/obj/Debug/net8.0/ref/FrameworksDrivers-API.dll
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/FrameworksDrivers-API/obj/Debug/net8.0/FrameworksDrivers-API.sourcelink.json

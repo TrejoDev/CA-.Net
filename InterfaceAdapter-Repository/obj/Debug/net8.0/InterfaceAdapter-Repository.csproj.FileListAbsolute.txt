@@ -19,3 +19,4 @@
 /Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Repository/obj/Debug/net8.0/refint/InterfaceAdapter-Repository.dll
 /Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Repository/obj/Debug/net8.0/InterfaceAdapter-Repository.pdb
 /Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Repository/obj/Debug/net8.0/ref/InterfaceAdapter-Repository.dll
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Repository/obj/Debug/net8.0/InterfaceAdapter-Repository.sourcelink.json

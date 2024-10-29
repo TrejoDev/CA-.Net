@@ -13,6 +13,7 @@ using FluentValidation.AspNetCore;
 using InterfaceAdapter_Adapter.Dtos;
 using InterfaceAdapter_Adapter;
 using FameworkDriver_ExternalService;
+using InterfaceAdpater_Model;
 
 // ! Capa superior de detalles de la aplicación
 var builder = WebApplication.CreateBuilder(args);
@@ -38,17 +39,28 @@ builder.Services.AddScoped<GetBeerUseCase<Beer, BeerViewModel>>();
 builder.Services.AddScoped<GetBeerUseCase<Beer, BeerDetailViewModel>>();
 builder.Services.AddScoped<AddBeerUseCase<BeerRequestDTO>>();
 builder.Services.AddScoped<GetPostUseCase>();
+builder.Services.AddScoped<GenerateSaleUseCase<SaleRequestDTO>>();
+builder.Services.AddScoped<GetSaleUseCase>();
+builder.Services.AddScoped<GetSaleSearchUseCase<SaleModel>>();
 
 //* Implementaciones de interfaces  
 builder.Services.AddScoped<IRepository<Beer>, Repository>();
+builder.Services.AddScoped<IRepository<Sale>, SaleRepository>();
+builder.Services.AddScoped<IRepositorySearch<SaleModel, Sale>, SaleRepository>();
+
 builder.Services.AddScoped<IPresenter<Beer, BeerViewModel>, BeerPresenter>();
 builder.Services.AddScoped<IPresenter<Beer, BeerDetailViewModel>, BeerDetailPresenter>();
+
 builder.Services.AddScoped<IMapper<BeerRequestDTO, Beer>, BeerMapper>();
+builder.Services.AddScoped<IMapper<SaleRequestDTO, Sale>, SaleMapper>();
+
 builder.Services.AddScoped<IExternalService<PostServiceDto>, PostService>();
 builder.Services.AddScoped<IExternalServiceAdapter<Post>, PostExternalServiceAdapter>();
-
-
-
+builder.Services.AddHttpClient<IExternalService<PostServiceDto>, PostService>(c =>
+    {
+        c.BaseAddress = new Uri(builder.Configuration["BasUrlPosts"]);
+    }
+);
 
 var app = builder.Build();
 
@@ -102,6 +114,29 @@ app.MapGet("/post", async (GetPostUseCase postUseCase) =>
 .WithName("posts")
 .WithOpenApi();
 
+app.MapPost("/sale", async (SaleRequestDTO saleRequestDTO,
+    GenerateSaleUseCase<SaleRequestDTO> generateSaleUseCase) =>
+{
+    await generateSaleUseCase.ExecuteAsync(saleRequestDTO);
+    return Results.Created();
+})
+.WithName("generateSales")
+.WithOpenApi();
+
+app.MapGet("/sale", async (GetSaleUseCase saleUseCase) =>
+{
+    return await saleUseCase.ExecuteAsync();
+})
+.WithName("getSales")
+.WithOpenApi();
+
+app.MapGet("/salesearch/{total}", async (GetSaleSearchUseCase<SaleModel> saleSearchUseCase,
+    int total) =>
+{
+    return await saleSearchUseCase.ExecuteAsync(s => s.Total > total);
+})
+.WithName("getSalesSearch")
+.WithOpenApi();
 
 app.Run();
 

@@ -9,3 +9,4 @@
 /Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/EnterpriseLayer/obj/Debug/net8.0/refint/EnterpriseLayer.dll
 /Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/EnterpriseLayer/obj/Debug/net8.0/EnterpriseLayer.pdb
 /Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/EnterpriseLayer/obj/Debug/net8.0/ref/EnterpriseLayer.dll
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/EnterpriseLayer/obj/Debug/net8.0/EnterpriseLayer.sourcelink.json

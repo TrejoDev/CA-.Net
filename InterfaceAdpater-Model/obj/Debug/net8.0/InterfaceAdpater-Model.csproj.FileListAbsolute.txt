@@ -9,3 +9,4 @@
 /Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdpater-Model/obj/Debug/net8.0/refint/InterfaceAdpater-Model.dll
 /Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdpater-Model/obj/Debug/net8.0/InterfaceAdpater-Model.pdb
 /Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdpater-Model/obj/Debug/net8.0/ref/InterfaceAdpater-Model.dll
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdpater-Model/obj/Debug/net8.0/InterfaceAdpater-Model.sourcelink.json

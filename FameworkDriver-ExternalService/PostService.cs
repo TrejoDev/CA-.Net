@@ -1,6 +1,5 @@
 ﻿using System.Text.Json;
 using InterfaceAdapter_Adapter.Dtos;
-
 namespace FameworkDriver_ExternalService;
 
 public class PostService : IExternalService<PostServiceDto>
@@ -10,7 +9,7 @@ public class PostService : IExternalService<PostServiceDto>
 
     public PostService(HttpClient httpClient)
     {
-        _httpClient = new HttpClient();
+        _httpClient = httpClient;
         _options = new JsonSerializerOptions
         {
             PropertyNameCaseInsensitive = true
@@ -18,7 +17,7 @@ public class PostService : IExternalService<PostServiceDto>
     }
     public async Task<IEnumerable<PostServiceDto>> GetContentAsync()
     {
-        var response = await _httpClient.GetAsync("https://jsonplaceholder.typicode.com/posts");
+        var response = await _httpClient.GetAsync(_httpClient.BaseAddress);
 
         response.EnsureSuccessStatusCode();
         var responseData = await response.Content.ReadAsStringAsync();

@@ -15,3 +15,4 @@
 /Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Data/obj/Debug/net8.0/refint/InterfaceAdapter-Data.dll
 /Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Data/obj/Debug/net8.0/InterfaceAdapter-Data.pdb
 /Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Data/obj/Debug/net8.0/ref/InterfaceAdapter-Data.dll
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/InterfaceAdapter-Data/obj/Debug/net8.0/InterfaceAdapter-Data.sourcelink.json

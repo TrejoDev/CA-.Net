@@ -13,3 +13,4 @@
 /Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/AplicationLayer/obj/Debug/net8.0/refint/AplicationLayer.dll
 /Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/AplicationLayer/obj/Debug/net8.0/AplicationLayer.pdb
 /Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/AplicationLayer/obj/Debug/net8.0/ref/AplicationLayer.dll
+/Users/trejodev/Desktop/Developer/Csharp/HDL/CleanArchitecture/8-CleanArchitecture/AplicationLayer/obj/Debug/net8.0/AplicationLayer.sourcelink.json
